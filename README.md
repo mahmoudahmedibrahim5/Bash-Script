@@ -1,5 +1,5 @@
-# Learn-Bash-Script
-Cheat Sheet with some examples for memorizing bash script syntax.
+# Bash Script Cheat Sheet
+Bash Script Cheat Sheet with some examples for memorizing bash script basic syntax.
 
 ## Running the script
 You can run it using bash interpreter. \
