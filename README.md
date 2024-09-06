@@ -56,9 +56,8 @@ You can print all array elements using `@` like this \
 
 ## For Loop
 ```
-for iterating condition;
-do
-	statements
+for iterating condition; do
+    statements
 done
 ```
 There are many ways to write the iterating condition: 
